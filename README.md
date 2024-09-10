@@ -12,9 +12,8 @@ Exploration des principales caractéristiques (sexe, âge, classe, embarquement,
 Conversion des variables catégorielles en variables numériques (ex : transformation du sexe en 0 ou 1).
 - Analyse Exploratoire des Données (EDA) : Visualisation des relations entre les variables et la survie des passagers à l'aide de graphiques.
 Utilisation de bibliothèques comme matplotlib, seaborn pour créer des visualisations (histogrammes, diagrammes en boîte, cartes de chaleur de corrélation).
-- Modélisation avec Machine Learning : Application de modèles d'apprentissage supervisé tels que la régression logistique, Random Forest, et K-Nearest Neighbors (KNN).
+- Modélisation avec Machine Learning : Application de modèles d'apprentissage supervisé tels que la régression logistique et Random Forest.
 Évaluation des performances des modèles à l'aide de la précision, la courbe ROC et d'autres métriques.
-- Amélioration des Modèles : Optimisation des hyperparamètres pour améliorer les prédictions.
 
 ## 🛠️ Technologies Utilisées
 Python : Langage de programmation pour l'analyse et la modélisation.
