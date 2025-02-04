@@ -1,22 +1,19 @@
-## Analyse des Données du Titanic
+## Titanic Data Analysis
 
-Ce projet est une première exploration des données à travers l'analyse du célèbre dataset Titanic, disponible sur Kaggle. Le but de ce projet est de s'initier aux processus de nettoyage des données, d'exploration et de modélisation en utilisant des techniques de machine learning pour prédire la survie des passagers du Titanic.
+This project is an introductory exploration of data analysis using the famous Titanic dataset available on Kaggle. The goal is to practice data cleaning, exploration, and machine learning techniques to predict passenger survival on the Titanic.
 
-## 🛠️ Objectif du Projet
-Le principal objectif de ce projet est de prédire si un passager a survécu ou non au naufrage du Titanic en fonction de plusieurs variables telles que l'âge, le sexe, la classe du billet, etc. Ce projet couvre toutes les étapes d'un projet typique de machine learning, y compris la préparation des données, l'exploration des données et l'application de modèles d'apprentissage supervisé.
+## 🛠️ Project Objective
+The primary aim of this project is to predict whether a passenger survived the Titanic disaster based on various features such as age, gender, ticket class, etc. This project follows the complete workflow of a typical machine learning project, including data preparation, exploration, and the application of supervised learning models.
 
-## 📊 Phases du Projet
-- Chargement et Exploration des Données : Chargement des données à partir du fichier CSV fourni.
-Exploration des principales caractéristiques (sexe, âge, classe, embarquement, etc.) pour comprendre la répartition des passagers et identifier les variables importantes.
-- Nettoyage des Données : Gestion des valeurs manquantes dans certaines colonnes (comme l'âge).
-Conversion des variables catégorielles en variables numériques (ex : transformation du sexe en 0 ou 1).
-- Analyse Exploratoire des Données (EDA) : Visualisation des relations entre les variables et la survie des passagers à l'aide de graphiques.
-Utilisation de bibliothèques comme matplotlib, seaborn pour créer des visualisations (histogrammes, diagrammes en boîte, cartes de chaleur de corrélation).
-- Modélisation avec Machine Learning : Application de modèles d'apprentissage supervisé tels que la régression logistique et Random Forest.
+## 📊 Project Phases
+- **Data Loading & Exploration**: Importing the dataset from a CSV file. Examining key features (gender, age, class, embarkation, etc.) to understand passenger distribution and identify important variables.
+- **Data Cleaning**: Handling missing values (e.g., filling in missing ages). Converting categorical variables into numerical values (e.g., encoding gender as 0 or 1).
+- **Exploratory Data Analysis (EDA)**: Visualizing relationships between features and survival rates using graphs. Utilizing libraries like Matplotlib and Seaborn to create histograms, box plots, and correlation heatmaps.
+- **Machine Learning Modeling**: Applying supervised learning models such as Logistic Regression and Random Forest to predict passenger survival.
 
-## 🛠️ Technologies Utilisées
-Python : Langage de programmation pour l'analyse et la modélisation.
-Pandas : Manipulation et traitement des données.
-Matplotlib et Seaborn : Création de visualisations des données.
-Scikit-learn : Implémentation des algorithmes de machine learning et évaluation des modèles.
-Jupyter Notebook : Environnement de développement interactif utilisé pour ce projet.
+## 🛠️ Technologies Used
+- Python: Programming language for analysis and modeling.
+- Pandas: Data manipulation and processing.
+- Matplotlib & Seaborn: Data visualization tools.
+- Scikit-learn: Implementation of machine learning algorithms and model evaluation.
+- Jupyter Notebook: Interactive development environment for the project.
